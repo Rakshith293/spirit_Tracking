@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "649530467352",
+    "project_id": "smart-workforce-8b665",
+    "storage_bucket": "smart-workforce-8b665.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649530467352:android:a87789279238bbb6718f6d",
+        "android_client_info": {
+          "package_name": "com.prathik.smartworkforce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT15FUngY3zFc65aSYl7_Z6KxhgYQ988Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
