@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">Smart workforce</string>
-    <string name="login_title">Smart Workforce</string>
-    <string name="login_tagline">Be there, be aware, succeed</string>
+    <string name="app_name">Spirit Tracking</string>
+    <string name="login_title">Spirit Tracking</string>
+    <string name="login_tagline">Run with passion, lead with purpose.</string>
     <string name="hr_login">HR Login</string>
     <string name="employee_login">Employee Login</string>
     <string name="no_account">Don\'t have an account? </string>
@@ -21,7 +21,7 @@
     <string name="performance_trend">Performance Trend</string>
     <string name="task_completion_rate">Task Completion Rate</string>
     <string name="hamburger_menu_content_description">Menu</string>
-    <string name="hr_admin_portal">HR Admin Portal</string>
+    <string name="hr_admin_portal">Spirit Admin Portal</string>
     <string name="employees">Employees</string>
     <string name="tasks">Tasks</string>
     <string name="leave_requests">Leave Requests</string>

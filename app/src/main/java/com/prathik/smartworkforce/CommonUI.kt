@@ -23,14 +23,14 @@ import com.prathik.smartworkforce.ui.theme.AppColors
 @Composable
 fun Logo() {
     Box(
-        modifier = Modifier.size(100.dp).clip(CircleShape).background(AppColors.PrimaryBlue),
+        modifier = Modifier.size(120.dp).clip(CircleShape).background(Color(0xFF2E7D32)),
         contentAlignment = Alignment.Center
     ) {
         Icon(
-            painter = painterResource(id = android.R.drawable.ic_menu_compass),
-            contentDescription = "Logo",
-            modifier = Modifier.size(60.dp),
-            tint = Color.White
+            painter = painterResource(id = R.drawable.ic_spirit_logo),
+            contentDescription = "Spirit Tracking Logo",
+            modifier = Modifier.size(70.dp),
+            tint = Color.Unspecified
         )
     }
 }
